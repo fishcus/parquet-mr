@@ -535,7 +535,7 @@
     <repository>
       <id>${releases.id}</id>
       <name>${releases.name}</name>
-      <url>${releases.url}</url>
+      <url>http://repository.kyligence.io:8081/repository/maven-releases</url>
     </repository>
   </distributionManagement>
 
