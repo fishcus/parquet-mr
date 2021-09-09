@@ -533,8 +533,8 @@
       <url>${snapshots.url}</url>
     </snapshotRepository>
     <repository>
-      <id>${releases.id}</id>
-      <name>${releases.name}</name>
+      <id>user-releases</id>
+      <name>User Project Release</name>
       <url>http://repository.kyligence.io:8081/repository/maven-releases</url>
     </repository>
   </distributionManagement>
